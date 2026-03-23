@@ -29,8 +29,8 @@ To write a C function to perfom push,pop and peek functions in Stack using Linke
 /*
 function to perfom push,pop and peek functions in Stack using Linked List.( store float data in stack)
 
-Developed by: Mukesh HS
-RegisterNumber:  212222060155
+Developed by: Rajasekar K
+RegisterNumber: 212222060189
 */
 #include <stdio.h>
 #include <stdlib.h>
